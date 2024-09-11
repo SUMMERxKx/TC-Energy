@@ -32,7 +32,7 @@
 }
 
 .sidebar .new-chat:hover {
-    background-color: #002244; /* Darker blue hover */
+    background-color: #002244; /* Darker blue on hover */
 }
 
 .sidebar .recent {
@@ -91,7 +91,7 @@
     min-height: 100vh;
     padding-bottom: 15vh;
     position: relative;
-    background-color: #e0efff; /* Light blue background */
+    background-color: #ffffff; /* White background */
 }
 
 .main .nav {
@@ -116,7 +116,7 @@
 .main .greet {
     margin: 50px 0px;
     font-size: 56px;
-    color: #87ceeb; /* Blue text */
+    color: #003366; /* Dark blue text */
     font-weight: 500;
     padding: 20px;
 }
@@ -137,7 +137,7 @@
 .main .card {
     height: 200px;
     padding: 15px;
-    background-color: #cce6ff; /* Lighter blue background */
+    background-color: #cce6ff; /* Light blue background */
     border-radius: 10px;
     position: relative;
     cursor: pointer;
@@ -154,7 +154,7 @@
 }
 
 .main .card p {
-    color: #50a3f6; /* Dark blue text */
+    color: #003366; /* Dark blue text */
     font-size: 17px;
 }
 
@@ -194,6 +194,7 @@
     outline: none;
     padding: 8px;
     font-size: 18px;
+    color: #003366; /* Dark blue text */
 }
 
 .search-box div {
